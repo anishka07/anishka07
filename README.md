@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anishka.</h1>
-<h3 align="center">An AI/ML enthusiast.</h3>
-
-- ⚡ Fun fact **lazy to diligently edit the whole README**
+<h3 align="center">A Machine Learning developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
