@@ -1,4 +1,4 @@
-# Your Average Machine Learning Dev!
+# Your Average Machine Learning Dev.
 💬 Brewing code on dark mode.<br> 
 
 
