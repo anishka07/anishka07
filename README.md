@@ -1,5 +1,5 @@
 # ML/DL 
-💬 Brewing code on dark mode.<br> 
+💬 Brewing code on dark mode<br> 
 
 
 ### Learning && Growing
