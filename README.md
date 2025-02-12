@@ -1,4 +1,4 @@
-# AI Learner..
+# ML/DL/NLP/GenAI 
 💬 Brewing code on dark mode<br> 
 
 
@@ -8,4 +8,3 @@
 ### 👇🏻:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
