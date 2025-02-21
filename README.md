@@ -1,3 +1,1 @@
-# Machine Learning  
-Aiming for excellence in the field of Artificial Intelligence.<br> 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+If ChatGPT were human, it would probably call up a lawyer, file a restraining order, and then start sending me passive-aggressive texts about how I’ve "really crossed a line this time."
