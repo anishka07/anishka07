@@ -1,2 +1,2 @@
-Professional ChatGPT user!
+Professional ChatGPT user.
 
