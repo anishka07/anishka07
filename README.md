@@ -1,4 +1,2 @@
 Professional ChatGPT user.
-
-
  
